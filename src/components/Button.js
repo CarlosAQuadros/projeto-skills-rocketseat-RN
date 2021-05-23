@@ -15,10 +15,7 @@ export function Button({onPress}){
 
         <Text style={{ fontWeight: 'bold', fontSize: 16 }}>Add</Text>
       </TouchableOpacity>
-
-
     )
-
 }
 const styles = StyleSheet.create({
 
